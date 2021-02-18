@@ -6,6 +6,8 @@ Otra prueba
 
 Esta es otra prueba
 
+<<<<<<< Updated upstream
 TEST SILVIA
 
-OTRO TEST SILVIAOtra prueba
+OTRO TEST SILVIA
+Otra prueba
